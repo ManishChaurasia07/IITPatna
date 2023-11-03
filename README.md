@@ -100,12 +100,4 @@ If your problem or idea has not been addressed yet, feel free to [open a new iss
 
 ## 📝 License
 
-Copyright (c) 2023 - Present, Designed & Developed by [Zeon Studio](https://zeon.studio/)
-
-**Code License:** Released under the [MIT](https://github.comzeon-studio/VitalEase/blob/main/LICENSE) license.
-
-**Image license:** The images are only for demonstration purposes. They have their license, we don't have permission to share those images.
-
-## 💻 Need Custom Development Services?
-
-If you need a custom theme, theme customization, or complete website development services from scratch you can [Hire Us](https://zeon.studio/).
+Copyright (c) 2023 - Present, Designed & Developed by [Manish Chaurasia](https://manishchaurasiya.netlify.app/)
