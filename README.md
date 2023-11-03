@@ -2,27 +2,6 @@
 
 <p align=center>VitalEase is a free starter template built with Nextjs, TailwindCSS & TypeScript, providing everything you need to jumpstart your Next project and save valuable time.</p>
 
-<p align=center>Made with ♥ by<a href="https://zeon.studio/"> Zeon Studio</a></p>
-<p align=center> If you find this project useful, please give it a ⭐ to show your support. </p>
-
-<h2 align="center"> <a target="_blank" href="https://VitalEase.netlify.app/" rel="nofollow">👀 Demo</a> | <a  target="_blank" href="https://pagespeed.web.dev/analysis/https-VitalEase-netlify-app/zttnq0z42d?form_factor=desktop">Page Speed (100%)🚀</a>
-</h2>
-
-<p align=center>
-
-  <a href="https://github.com/vercel/next.js/releases/tag/v13.5.1" alt="Contributors">
-    <img src="https://img.shields.io/static/v1?label=NEXTJS&message=13.4&color=000&logo=nextjs" />
-  </a>
-
-  <a href="https://github.com/ManishChaurasia07/IITPatna.git/blob/main/LICENSE">
-    <img src="https://img.shields.io/github/license/zeon-studio/VitalEase" alt="license"></a>
-
-  <img src="https://img.shields.io/github/languages/code-size/zeon-studio/VitalEase" alt="code size">
-
-  <a href="https://github.com/ManishChaurasia07/IITPatna.git/graphs/contributors">
-    <img src="https://img.shields.io/github/contributors/zeon-studio/VitalEase" alt="contributors"></a>
-</p>
-
 ## 📌 Key Features
 
 - 👥 Multi-authors
